@@ -2,7 +2,7 @@
 This project is based on
 
 [*J. Stam, A Simple Fluid Solver based on the FFT, Journal of Graphics Tools
-Volume 6, Number 2, 2001, 43-52*](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/jgt01.pdf)
+   Volume 6, Number 2, 2001, 43-52*](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/jgt01.pdf)
 
 
 **Abstract** 
