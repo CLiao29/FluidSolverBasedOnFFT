@@ -1,8 +1,8 @@
 # FluidSolverBasedOnFFT
 This project is based on
 
-J. Stam, A Simple Fluid Solver based on the FFT, Journal of Graphics Tools
-Volume 6, Number 2, 2001, 43-52
+*J. Stam, A Simple Fluid Solver based on the FFT, Journal of Graphics Tools
+Volume 6, Number 2, 2001, 43-52*
 
 
 **Abstract** 
