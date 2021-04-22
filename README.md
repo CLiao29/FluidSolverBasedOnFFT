@@ -12,9 +12,9 @@ The goal of this project is to introduce a fluid solver based on the Fast Fourie
 
 **Files**  
 
-[Complex.java](https://introcs.cs.princeton.edu/java/97data/Complex.java.html): Class to present the complex variable.  
+*[Complex.java](https://introcs.cs.princeton.edu/java/97data/Complex.java.html)*: Class to present the complex variable.  
 
-Fluid.java: Main implementation of the fluid solver.  
+*Fluid.java*: Main implementation of the fluid solver.  
 
-FluidApp.java: Simple GUI and force initialization.  
+*FluidApp.java*: Simple GUI and force initialization.  
 
